@@ -258,3 +258,12 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.additional-info__education-university-speciality {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+
+.additional-info__education-university-name {
+  margin-bottom: 1rem;
+}
