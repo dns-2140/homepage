@@ -264,3 +264,9 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.contact-info__header:hover {
+  transform: scale(1.02);
+  transition: transform 0.2s ease;
+  cursor: default;
+}
